@@ -1,4 +1,4 @@
-![Alt text](me.png)
+![Alt text](me.jpg)
 <h1 align="left">Hey 👋 This is Kanishka</h1>
 
 ###
